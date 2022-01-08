@@ -1,3 +1,3 @@
 # dlakhiani.github.io
 portfolio holder
-hosted on [dlakhiani.com](www.dlakhiani.com)
+currently hosted on [dlakhiani.com](www.dlakhiani.com)
